@@ -18,8 +18,8 @@ export default function App() {
         <img style={{ width: "200px" }} src="./images/logo1-01.png" alt="logo" />
         <p className="blockquote text-center para pb-4">Parce que, contrairement à Kaz, j'ai une conscience. J'ai une conscience, objecta Kaz. <br />Mais elle est discrète.Jesper rit.
           - Discrète ? Si tu as une conscience, elle est baillonnée et ligotée sur une chaise quelque part!</p>
-          <div className="d-flex justify-content-center  pb-5 ">
-        <iframe className="embed-responsive-item " src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+          <div className="d-flex justify-content-center top1 pb-4 ">
+        <iframe className="embed-responsive-item " style={{width:"500px"}} src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
       </div>
       </div>
       
