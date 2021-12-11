@@ -33,7 +33,7 @@ export default function App() {
         <iframe className="embed-responsive-item " style={{ width: "500px" }} src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
       </div>
       <div className="centerPosition pt-3 pb-5">
-        <p style={{ color: "#e4341a", fontWeight:"bold", fontSize:"1.3rem"}}>GET YOUR ‘’ MAELSTROM ‘’ NOW, ON</p>
+        <p style={{ color: "#e4341a", fontWeight:"bold", fontSize:"2rem"}}>GET YOUR ‘’ MAELSTROM ‘’ NOW, ON</p>
         <div className="d-flex justify-content-center support">
           <a href="https://www.facebook.com/EnfaiteOfficial/" target="_blank"><FontAwesomeIcon icon={faFacebook} /></a>
           <a href="https://www.instagram.com/_enfaite/" target="_blank"><FontAwesomeIcon icon={faInstagram} /></a>
