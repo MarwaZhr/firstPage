@@ -1,11 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 import InfiniteCarousel from 'react-leaf-carousel';
 
 
 export default function ControlledCarousel() {
-    const images = ["./images/img1.jpg", "./images/img2.jpg", "./images/img3.jpg", "./images/img4.jpg", "./images/img5.jpg"].map((number) => ({
-        src: `${number}`
-    }));
+   
     return (
         <InfiniteCarousel
     breakpoints={[
