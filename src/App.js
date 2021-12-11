@@ -38,13 +38,18 @@ export default function App() {
           <a href="https://www.facebook.com/EnfaiteOfficial/" target="_blank"><FontAwesomeIcon icon={faFacebook} /></a>
           <a href="https://www.instagram.com/_enfaite/" target="_blank"><FontAwesomeIcon icon={faInstagram} /></a>
         </div>
-        <div className=" support " style={{color:"#fff"}}>
+        <div className=" support " style={{ color: "#fff" }}>
           <FontAwesomeIcon icon={faPhoneAlt} />
-          {'   55 994 394 – 58 799 448'} 
+          {'   55 994 394 – 58 799 448'}
         </div>
       </div>
       <div className="pb-5">
-      <ControlledCarousel />
+        <ControlledCarousel />
+      </div>
+      <div className="para centerPosition pb-5">
+        <p>We are working To launch our website as soon as possible.<br />
+          Keep in touch !
+        </p>
       </div>
     </div>
   );
